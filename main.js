@@ -9,12 +9,12 @@ const daftarVideo = [
     "https://cdn2.aceimg.com/P0ok1ZiVE.mov",
     "https://cdn2.aceimg.com/Yany0Jihc.mp4",
     "https://cdn2.aceimg.com/8Np1kHTPf.mp4",
-    "https://cdn2.videy.co/AAovM0bj1.mp4",
-    "https://cdn2.videy.co/CU550Zof1.mp4",
-    "https://cdn2.videy.co/mRZ1Lm0Y1.mp4",
-    "https://cdn2.videy.co/rTERwuzM1.mp4",
-    "https://cdn2.videy.co/xn4L8uRk1.mp4",
-    "https://cdn2.videy.co/s2yazRB51.mp4",
+    "https://cdn.slicedrive.com/cLRJXusD1.mp4",
+    "https://cdn2.aceimg.com/yOZO7vTvS.mp4",
+    "https://cdn2.aceimg.com/U8S5yZAQL.mov",
+    "https://cdn2.aceimg.com/RcgIV9v1F.mp4",
+    "https://cdn.slicedrive.com/igApDbsm1.mp4",
+    "https://cdn.slicedrive.com/AMU5fsHV1.mp4",
     "https://cdn2.videy.co/KQPf4Otj1.mp4",
     "https://cdn2.videy.co/TD8eGo2X1.mp4"
 ];
