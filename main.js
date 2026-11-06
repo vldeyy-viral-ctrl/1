@@ -72,7 +72,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://rm358.com/4/12160277",
+                "https://s.shopee.co.id/7VHeXOiJoQ",
                 "_blank"
             );
 
@@ -116,7 +116,7 @@ if (video) {
 
         // Klik / tap apa pun → Shopee
         window.open(
-            "https://s.shopee.co.id/7VHeXOiJoQ",
+            "https://nthefeetofthea.org?tid=1489594",
             "_blank"
         );
 
