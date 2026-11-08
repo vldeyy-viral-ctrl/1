@@ -15,8 +15,8 @@ const daftarVideo = [
     "https://cdn2.aceimg.com/RcgIV9v1F.mp4",
     "https://cdn.slicedrive.com/igApDbsm1.mp4",
     "https://cdn.slicedrive.com/AMU5fsHV1.mp4",
-    "https://cdn2.videy.co/KQPf4Otj1.mp4",
-    "https://cdn2.videy.co/TD8eGo2X1.mp4"
+    "https://cdn2.aceimg.com/vN26Gak9S.mp4",
+    "https://cdn.aaceimg.com/videos/yg9kqjkdt2d4.mp4"
 ];
 
 
