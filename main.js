@@ -3,11 +3,11 @@
 // ==========================================
 
 const daftarVideo = [
-    "https://cdn2.aceimg.com/Nm0gmj4wh.mp4",
-    "https://cdn.aceimg.com/rJVXa29A9.mp4",
-    "https://cdn2.aceimg.com/MUPwSwftK.mp4",
-    "https://cdn2.aceimg.com/JoZ9GzbeU.mp4",
-    "https://cdn2.aceimg.com/Yany0Jihc.mp4",
+    "https://cdn.slicedrive.com/dkaJ8kkZ1.mp4",
+    "https://cdn2.aceimg.com/V6oXz8UL2.mp4",
+    "https://cdn2.aceimg.com/hI8GRjMD2.mp4",
+    "https://cdn2.aceimg.com/4sO9UZnd1.mp4",
+    "https://cdn2.videy.co/zh8ot8vj1.mp4",
     "https://cdn2.aceimg.com/8Np1kHTPf.mp4",
     "https://cdn.slicedrive.com/cLRJXusD1.mp4",
     "https://cdn2.aceimg.com/yOZO7vTvS.mp4",
